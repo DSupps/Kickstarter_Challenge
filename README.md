@@ -10,8 +10,7 @@ The purpose of this analysis is to provide Louise insights so that she can set u
 
 The analysis was performed by looking at past Kickstarter theatrical fundraising campaigns. The results were further narrowed down to campaigns that were either successful or unsuccesful based off of their launch date and fundraising goal. 
 
-Link to the Kickstarter data set
-Kickstarter_Challenge/Kickstarter_Challenge.xlsx at main · DSupps/Kickstarter_Challenge
+The Kickstarter Crowdfunding data comes from: https://github.com/DSupps/Kickstarter_Challenge/blob/main/Kickstarter_Challenge.xlsx
 
 ### Analysis of Outcomes Based on Launch Date
 By the time July and August start to come around there appears to be a decline in the amount of campaigns meeting their fundraising goal.
@@ -57,7 +56,7 @@ What are some other possible tables and/or graphs that we could create?
 1) A pivot table with spotlight in the rows, outcomes for columns and outcomes for values. Filtered by Parent category "theatre" and subcategory "plays".
   - If you look further in the data, you see that all successful plays have TRUE in the "spotlight" column and all failed plays have FALSE.
 
-2) 
+2) A line graph with average donation to plays over time. Average donations to Plays has decreased significantly since 2015.
 
 
 

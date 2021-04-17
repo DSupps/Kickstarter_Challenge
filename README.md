@@ -11,6 +11,7 @@ The purpose of this analysis is to provide Louise insights so that she can set u
 The analysis was performed by looking at past Kickstarter theatrical fundraising campaigns. The results were further narrowed down to campaigns that were either successful or unsuccesful based off of their launch date and fundraising goal. 
 
 Link to the Kickstarter data set
+Kickstarter_Challenge/Kickstarter_Challenge.xlsx at main · DSupps/Kickstarter_Challenge
 
 ### Analysis of Outcomes Based on Launch Date
 By the time July and August start to come around there appears to be a decline in the amount of campaigns meeting their fundraising goal.

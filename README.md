@@ -39,8 +39,10 @@ What are two conclusions you can draw about the Outcomes based on Launch Date?
 - The time of year to start a campaign makes a big difference to the outcome. 
 - Most successful theatrical campaigns are started in May or June.
 
+
 What can you conclude about the Outcomes based on Goals?
 - Choosing a campaing with a goal of lower than $15,000 gives Louise a much higher chance of succeeding. If she could keep her goal below $5,000, she would really boost here chances.
+
 
 What are some limitations of this dataset?
 - There just aren't as many campagins with goals above $15,000 in the data.  It is not as easy to say with confidence, that just because the goals are higher, they are more likely to fail. 
@@ -48,10 +50,11 @@ What are some limitations of this dataset?
 - There aren't details about the individual backers. 
 - What do "staff_pick" and "spotlight" mean?
 
+
 What are some other possible tables and/or graphs that we could create?
 
 1) A pivot table with spotlight in the rows, outcomes for columns and outcomes for values. Filtered by Parent category "theatre" and subcategory "plays".
-- If you look further in the data, you see that all successful plays have TRUE in the "spotlight" column and all failed plays have FALSE.
+  - If you look further in the data, you see that all successful plays have TRUE in the "spotlight" column and all failed plays have FALSE.
 
 2) 
 

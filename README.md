@@ -50,6 +50,13 @@ What are some limitations of this dataset?
 
 What are some other possible tables and/or graphs that we could create?
 
-If you look further in the data, you see that all successful plays have TRUE in the "spotlight" column and all failed plays have FALSE.
+1) A pivot table with spotlight in the rows, outcomes for columns and outcomes for values. Filtered by Parent category "theatre" and subcategory "plays".
+- If you look further in the data, you see that all successful plays have TRUE in the "spotlight" column and all failed plays have FALSE.
+
+2) 
+
+
+
+
 
 

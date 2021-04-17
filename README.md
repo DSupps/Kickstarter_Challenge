@@ -4,7 +4,7 @@
 
 ### Purpose - Explain the purpose of this analysis
 
-The purpose of this analysis is to provide Louise insights so that she can set up her fundraising campaign in way that gives her a better chance of succeeding. 
+*The purpose of this analysis is to provide Louise insights so that she can set up her fundraising campaign in way that gives her a better chance of succeeding*. 
 
 ## Analysis and Challenges
 

@@ -4,7 +4,7 @@
 
 Louise, an up and coming playwrite, wants to know how different theatre campaigns fared in relation to their launch dates and their funding goals.
 
-### Purpose
+### Project Challenge:
 
 *The purpose of this analysis is to provide Louise the insights that she needs to set up her fundraising campaign.  With these inisights, Louise can make decisions that give her  a better chance of succeeding*. 
 

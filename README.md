@@ -1,6 +1,6 @@
-# Kickstarting with Excel
+# Analyzing Kickstarting Campaigns with Excel
 
-## Overview of Project
+## Project Overview:
 
 Louise, an up and coming playwrite, wants to know how different theatre campaigns fared in relation to their launch dates and their funding goals.
 
@@ -8,7 +8,7 @@ Louise, an up and coming playwrite, wants to know how different theatre campaign
 
 *The purpose of this analysis is to provide Louise the insights that she needs to set up her fundraising campaign.  With these inisights, Louise can make decisions that give her  a better chance of succeeding*. 
 
-## Analysis and Challenges
+## Project Results:
 
 The analysis was performed by looking at past Kickstarter theatrical fundraising campaigns. The results were further narrowed down to campaigns that were either successful or unsuccesful based off of their launch date and fundraising goal. 
 
@@ -37,7 +37,7 @@ To determine the outcome a campaign, the ones reaching their goal were labeled "
 - Columns labeled "staff_pick" and "spotlight" were included with not context. There might be some important data in there but I don't know what they are referring to. 
 - The "blurb" column contained some characters that were hard to interpret. 
 
-## Results
+## Project Summary:
 
 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 - The time of year to start a campaign makes a big difference to the outcome. 
